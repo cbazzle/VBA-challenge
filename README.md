@@ -14,7 +14,7 @@
 
 * I applied conditional formatting to highlight positive change in green and negative change in red.
 
-![2014](Images/2014.png)
+![2014](Images/2014.PNG)
 
 ![2015](Images/2015.png)
 
